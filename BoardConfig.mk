@@ -200,6 +200,8 @@ BOARD_SEPOLICY_UNION := \
     dhcp.te \
     dumpstate.te \
     file.te \
+    gpsd.te \
+    init.te \
     init_shell.te \
     mediaserver.te \
     netd.te \
