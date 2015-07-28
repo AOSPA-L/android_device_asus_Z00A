@@ -81,7 +81,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    lights.moorefield
+    lights.mofd_v1
 
 # Radio
 PRODUCT_PROPERTY_OVERRIDES += \
