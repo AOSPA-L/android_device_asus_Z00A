@@ -15,7 +15,7 @@
 #
 
 # Use the non-open-source parts, if they're present
--include vendor/intel/fugu/BoardConfigVendor.mk
+-include vendor/asus/Z00A/BoardConfigVendor.mk
 
 TARGET_ARCH := x86
 TARGET_ARCH_VARIANT := x86-atom
