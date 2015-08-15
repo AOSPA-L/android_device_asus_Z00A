@@ -1,0 +1,68 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "NicholasPace/android_kernel_asus_Z00A",
+    "target_path":  "kernel/asus/Z00A",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_vendor_asus",
+    "target_path":  "vendor/asus",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libmix",
+    "target_path":  "hardware/intel/common/libmix",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libstagefrighthw",
+    "target_path":  "hardware/intel/common/libstagefrighthw",
+    "revision":     "cm-12.1"
+  },  
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_libva",
+    "target_path":  "hardware/intel/common/libva",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_omx-components",
+    "target_path":  "hardware/intel/common/omx-components",
+    "revision":       "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_utils",
+    "target_path":  "hardware/intel/common/utils",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_common_wrs_omxil_core",
+    "target_path":  "hardware/intel/common/wrs_omxil_core",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_hwcomposer",
+    "target_path":  "hardware/intel/img/hwcomposer",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_libdrm",
+    "target_path":  "hardware/intel/img/libdrm",
+    "revision":     "cm-12.1"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CM-zenfone2/android_hardware_intel_img_psb_video",
+    "target_path":  "hardware/intel/img/psb_video",
+    "revision":     "cm-12.1"
+  }
+]
