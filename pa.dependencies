@@ -13,7 +13,7 @@
   },
   {
     "remote":       "github",
-    "repository":   "CM-zenfone2/android_vendor_asus",
+    "repository":   "CM-zenfone2/proprietary_vendor_asus",
     "target_path":  "vendor/asus",
     "revision":     "cm-12.1"
   },
